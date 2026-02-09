@@ -3,6 +3,9 @@
   <br><em>— Martin Fowler</em>
 </div>
 
+<img align="right" width="30%" src='https://avataaars.io/?avatarStyle=Transparent&topType=ShortHairShortWaved&accessoriesType=Sunglasses&hairColor=Black&facialHairType=Blank&clotheType=Hoodie&clotheColor=Heather&eyeType=Default&eyebrowType=DefaultNatural&mouthType=Twinkle&skinColor=Brown'
+/>
+
 <h3 align="center">Tools & Technologies</h3>
 
 <div align="center">
@@ -26,34 +29,5 @@
   <img src="https://www.svgrepo.com/show/354420/swagger.svg" style="width: 50px;" title="Swagger">
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" style="width: 50px;" title="Postman">
 </div>
-
-<h3 align="center">About Me</h3>
-
-Hi there! I'm Ziad, a Software Engineer with a strong foundation in Computer Science and a deep passion for building clean, scalable, and maintainable systems.
-
-I specialize in backend development using C#/.NET, and I care deeply about code quality, system design, unit testing, and engineering best practices.
-
-I focus on writing **clean code** and building systems that are **robust in production** and easy to evolve.
-
-My foundation spans core areas of Computer Science, including:
-
-- Programming and Problem Solving
-- Data Structures and Algorithms
-- Mathematics for CS
-- Compilers
-- Computer Architecture
-- Operating Systems
-- Networking
-- Distributed Systems
-
-<h3 align="center">Projects and Achievements</h3>
-
-- I solved 150 Leetcode problems in C++/C#
-- Project 1
-  - details
-- Project 2
-  - details
-- Project 3
-  - details
 
 
