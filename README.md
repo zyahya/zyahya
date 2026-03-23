@@ -1,6 +1,5 @@
 <div align="center">
-  <strong>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</strong>  
-  <br><em>— Martin Fowler</em>
+ ❝ First, solve the problem. Then, write the code ❞ 
 </div>
 
 <img align="right" width="30%" src='https://avataaars.io/?avatarStyle=Transparent&topType=ShortHairShortWaved&accessoriesType=Sunglasses&hairColor=Black&facialHairType=Blank&clotheType=Hoodie&clotheColor=Heather&eyeType=Default&eyebrowType=DefaultNatural&mouthType=Twinkle&skinColor=Brown'
