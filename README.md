@@ -4,7 +4,7 @@ I build scalable, secure, data intensive backend systems that serve millions acr
 
 Here some of my tools:
 
-<center>
+<div style="display: flex; justify-content: center;">
     <img style="width: 29px;" src="./images/dotnet.svg" >
     <img style="width: 30px;" src="./images/js.svg" >
     <img style="width: 30px;" src="./images/csharp.svg" >
@@ -17,7 +17,7 @@ Here some of my tools:
     <img style="width: 30px;" src="./images/ubuntu.svg" >
     <img style="width: 30px;" src="./images/redis.svg" >
     <img style="width: 30px;" src="./images/vs-code.svg" >
-</center>
+</div>
 
 <br>
 
