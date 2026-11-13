@@ -3,27 +3,19 @@
 I build scalable, secure, data intensive backend systems that serve millions across the world 🌠
 
 Here some of my tools:
-
-<div style="display: flex; justify-content: center;">
-    <img style="width: 29px;" src="./images/dotnet.svg" >
-    <img style="width: 30px;" src="./images/js.svg" >
-    <img style="width: 30px;" src="./images/csharp.svg" >
-    <img style="width: 30px;" src="./images/react.svg" >
-    <img style="width: 30px;" src="./images/tailwind.svg" >
-    <img style="width: 30px;" src="./images/docker.svg" >
-    <br>
-    <img style="width: 30px;" src="./images/aws.svg" >
-    <img style="width: 30px;" src="./images/postgresql-logo.svg" >
-    <img style="width: 30px;" src="./images/ubuntu.svg" >
-    <img style="width: 30px;" src="./images/redis.svg" >
-    <img style="width: 30px;" src="./images/vs-code.svg" >
-</div>
-
 <br>
+<img style="width: 29px;" src="./images/dotnet.svg" >
+<img style="width: 30px;" src="./images/js.svg" >
+<img style="width: 30px;" src="./images/csharp.svg" >
+<img style="width: 30px;" src="./images/react.svg" >
+<img style="width: 30px;" src="./images/tailwind.svg" >
+<img style="width: 30px;" src="./images/docker.svg" >
+<img style="width: 30px;" src="./images/postgresql-logo.svg" >
+<img style="width: 30px;" src="./images/ubuntu.svg" >
+<img style="width: 30px;" src="./images/redis.svg" >
+<img style="width: 30px;" src="./images/vs-code.svg" >
 
 ---
-
-<br>
 
 Feel free to contact me:
 
