@@ -15,6 +15,7 @@ I design and build scalable, secure, and performant backend systems with a focus
   <img style="width: 30px;" src="./images/ubuntu.svg" >
   <img style="width: 30px;" src="./images/redis.svg" >
   <img style="width: 30px;" src="./images/vs-code.svg" >
+  <img style="width: 30px;" src="./images/claude-code.svg" >
 </div>
 
 ---
