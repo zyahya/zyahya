@@ -1,6 +1,6 @@
 # Hi, I'm Ziad 👋
 
-I design and build scalable, secure, and performant backend systems with a focus on .NET.
+I design and build scalable, secure, and performant **backend systems** with a focus on **.NET**.
 
 **Technologies I work with:**
 
