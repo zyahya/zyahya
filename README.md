@@ -5,9 +5,9 @@ I design and build scalable, secure, and performant **backend systems** with a f
 **Technologies I work with:**
 
 <div>
-  <img style="width: 29px;" src="./images/dotnet.svg" >
-  <img style="width: 30px;" src="./images/js.svg" >
-  <img style="width: 30px;" src="./images/csharp.svg" >
+  <img style="width: 30px;" src="./images/dotnet.svg" >
+  <img style="width: 30px;" src="./images/typescript.svg" >
+  <img style="width: 30px;" src="./images/javascript.svg" >
   <img style="width: 30px;" src="./images/react.svg" >
   <img style="width: 30px;" src="./images/tailwind.svg" >
   <img style="width: 30px;" src="./images/docker.svg" >
@@ -16,6 +16,7 @@ I design and build scalable, secure, and performant **backend systems** with a f
   <img style="width: 30px;" src="./images/redis.svg" >
   <img style="width: 30px;" src="./images/vs-code.svg" >
   <img style="width: 30px;" src="./images/claude-code.svg" >
+  <img style="width: 30px;" src="./images/aws.svg" >
 </div>
 
 ---
